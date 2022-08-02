@@ -5,3 +5,4 @@ set noswapfile
 set noundofile
 set tabstop=2
 syntax off
+nmap - <Del>
